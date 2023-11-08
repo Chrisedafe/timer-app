@@ -1,0 +1,21 @@
+.header {
+    color: purple;
+    font-family: 20px;
+}
+
+.special {
+    color: red;
+}
+
+.btn-ghost {
+    width: 50%;
+    height: 45px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.rela {
+    color: pink;
+}
